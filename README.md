@@ -1,6 +1,6 @@
 **NodeMCU-WiFi-Chat**
 
-Этот проект представляет собой простое приложение для чата, работающее на плате NodeMCU. Приложение устанавливает Wi-Fi соединение и веб-сервер, который размещает интерфейс чата. Пользователи могут отправлять и получать сообщения через веб-страницу, причем сообщения отображаются в реальном времени. Также могут отображаться системные сообщения в специальном формате. ~~*Возможно в некоторых местах код может быть не качественным, так как проект выполнялся на скорую руки.*~~
+Этот проект представляет собой простой код для чата, работающее на плате NodeMCU. Устанавливает Wi-Fi соединение и веб-сервер, который размещает интерфейс чата. Пользователи могут отправлять и получать сообщения через веб-страницу, сообщения отображаются в реальном времени. Также могут отображаться системные сообщения в специальном формате. В чате есть возможность отправлять ссылки на изображение в формате jpg|jpeg|png|gif которые будут автоматически загружены и показаны на стороне клиентов (силами клиента).
 
 ![Image alt](https://github.com/GusevNikita/NodeMCU-WiFi-Chat/blob/main/Screenshot.png)
 
@@ -33,7 +33,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **NodeMCU-WiFi-Chat**
 
-This project is a simple chat application running on a NodeMCU board. The application establishes a Wi-Fi connection and a web server that hosts the chat interface. Users can send and receive messages through a web page, with messages being displayed in real time. System messages can also be displayed in a special format. ~~*Some parts of the code might be of low quality, as the project was done hastily.*~~
+This project is a simple chat application running on a NodeMCU board. The application establishes a Wi-Fi connection and a web server that hosts the chat interface. Users can send and receive messages through a web page, with messages being displayed in real time. System messages can also be displayed in a special format. In the chat, there is an option to send links to images in jpg, jpeg, png, or gif formats, which will be automatically loaded and displayed on the client side.
 
 **Features**
 
